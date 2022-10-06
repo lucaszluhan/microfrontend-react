@@ -1,6 +1,6 @@
 # microfrontend-react
 
-** Micro frontend project with React **
+- Micro frontend project with React
 
 Each folder on main repository is a single app and is integrated into container with webpack.
 
