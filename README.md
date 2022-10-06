@@ -2,7 +2,7 @@
 
 ** Micro frontend project with React **
 
-Each paste on main repository is a single app and are integrated into container with webpack.
+Each folder on main repository is a single app and are integrated into container with webpack.
 
 This is my first step to understand micro architecture.
 
