@@ -8,5 +8,5 @@ This is my first step to understand micro architecture.
 
 - Dependencies
 
-Faker: to create fake data \n
+Faker: to create fake data <br>
 Webpack: to create communication
