@@ -16,11 +16,7 @@ module.exports = {
             exposes: {
                 './ProductsIndex': './src/index.js',
             },
-            shared: {
-                faker: {
-                    singleton: true
-                }
-            }
+            shared: ['faker']
         }),
     ],
 }
