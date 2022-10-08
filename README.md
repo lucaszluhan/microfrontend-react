@@ -1,8 +1,8 @@
-# microfrontend-react
+# microfrontend-webpack
 
-- Micro frontend project with React
+- Micro frontend project with webpack
 
-Each folder on main repository is a single app and is integrated into container with webpack.
+Each folder on main repository is a single app and 2 remotes (cart & products) are integrated into the host (container) with webpack.
 
 This is my first step to understand micro architecture.
 
